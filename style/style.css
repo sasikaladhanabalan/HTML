@@ -1,0 +1,10 @@
+h1{color:red;
+	text-font:center;}
+#tr{color:green;
+	text-font:left;}
+tr.abc{color:blue;
+	text-font:left;
+h1:hover {
+  background-color: yellow;
+}
+	
